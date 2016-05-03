@@ -503,7 +503,7 @@ const bool Z_MIN_PROBE_ENDSTOP_INVERTING = true; // set to true to invert the lo
 #define Z_MIN_POS 0
 #define X_MAX_POS 200
 #define Y_MAX_POS 200
-#define Z_MAX_POS 170
+#define Z_MAX_POS 280
 
 //===========================================================================
 //========================= Filament Runout Sensor ==========================
